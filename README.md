@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](kiri-vadivelu.ca)
 
-- 📝 I regularly write articles on [breakfree.one](breakfree.one)
+- 📝 I regularly write articles on [breakfree.one](https://breakfree.one)
 
 - ⚡ Fun fact **fearless defender of social justice**
 
