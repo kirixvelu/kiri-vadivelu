@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-kiri-vadivelu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-kiri-vadivelu" /> </p>
 
-- 👨‍💻 All of my projects are available at [digitaldesigners.ca](digitaldesigners.ca)
+- 👨‍💻 All of my projects are available at [digitaldesigners.ca](https://digitaldesigners.ca)
 
 - 💬 Ask me about **anything, glad to help**
 
