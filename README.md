@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **fearless defender of social justice** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left"></p>
 <a href="https://instagram.com/kiri_vadivelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiri_vadivelu" height="30" width="40" /></a>
 <a href="https://fb.com/kiri.vadivelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiri.vadivelu" height="30" width="40" /></a>
