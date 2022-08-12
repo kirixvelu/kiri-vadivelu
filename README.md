@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [digitaldesigners.ca](digitaldesigners.ca)
 
-- 📝 I regularly write articles on [breakfree.one](breakfree.one)
-
 - 💬 Ask me about **anything, glad to help**
 
 - 📫 How to reach me **kiri@digitaldesigners.ca**
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](kiri-vadivelu.ca)
+
+- 📝 I regularly write articles on [breakfree.one](breakfree.one)
 
 - ⚡ Fun fact **fearless defender of social justice**
 
