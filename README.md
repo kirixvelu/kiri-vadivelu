@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **kiri@digitaldesigners.ca**
 
-- 📄 Know about my experiences [kiri-vadivelu.ca](kiri-vadivelu.ca)
+- 📄 Know about my experiences [kiri-vadivelu.ca](https://kiri-vadivelu.ca)
 
 - 📝 I regularly write articles on [breakfree.one](https://breakfree.one)
 
-- ⚡ Fun fact **fearless defender of social justice**
+- ⚡ Fun fact **fearless defender of social justice** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
