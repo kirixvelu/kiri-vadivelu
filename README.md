@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](https://kiri-vadivelu.ca)
 
-- 📝 I regularly write articles on [Social, Economical and Political Issues](https://scarboroughtenants.ca)
+- 📝 I regularly write articles on [Social & Economical Issues](https://scarboroughtenants.ca)
 
 - ⚡ Fun fact **fearless defender of social justice** 
 
