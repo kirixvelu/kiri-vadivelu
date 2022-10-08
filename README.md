@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Social & Economical Issues](https://scarboroughtenants.ca)
 
-- ⚡ Fun fact **love my community but hate poverty**
+- ⚡ Fun fact **love my city but hate poverty**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
