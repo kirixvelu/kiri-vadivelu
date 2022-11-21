@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiri</h1>
-<p align="center">An innovative front-end developer from Toronto, Ontario, Canada</h3>
+<p align="center">An innovative front-end developer from Toronto, ON, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-kiri-vadivelu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-kiri-vadivelu" /> </p>
 
