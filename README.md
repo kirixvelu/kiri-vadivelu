@@ -11,9 +11,13 @@
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](https://kiri-vadivelu.ca)
 
-- 📝 I regularly write articles on [Social & Economical Issues](https://scarboroughtenants.ca)
+- 📝 Regularly write articles on [Social & Economical Issues](https://scarboroughtenants.ca)
 
-- ⚡ For Real **love my city but hate poverty and homelessness**
+- 🍵 Addicted to tea since 1999
+
+- 🎁 A small gift to the community [Jaffna Classless CSS Framework](https://jaffnacss.nelify.app)
+
+- ⚡ For Real, **love my city but hate poverty and homelessness**
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
