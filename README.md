@@ -15,7 +15,7 @@
 
 - 🍵 Addicted to tea since 1999
 
-- 🎁 A small gift to the community [Jaffna Classless CSS Framework](https://jaffnacss.nelify.app)
+- 🎁 A small gift to the community [Jaffna Classless CSS Framework](https://jaffnacss.netlify.app)
 
 - ⚡ For Real, **love my city but hate poverty and homelessness**
 
