@@ -17,7 +17,7 @@
 
 - 🎁 A small gift to the community [Jaffna CSS Framework](https://jaffnacss.netlify.app)
 
-- ⚡ For Real, **love my city but hate poverty and homelessness**
+- ⚡ For Real, **love my city, love my people but hate poverty and homelessness**
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
