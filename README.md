@@ -15,7 +15,7 @@
 
 - 🍵 Addicted to tea since 1999 [History of Tea](https://en.wikipedia.org/wiki/History_of_tea)
 
-- 🎁 A small gift to the Dev community [Jaffna CSS Framework](https://jaffnacss.netlify.app)
+- 🎁 A small gift to the DEV community [Jaffna CSS Framework](https://jaffnacss.netlify.app)
 
 - ⚡ For Real, **love my city but hate poverty and homelessness**
 
