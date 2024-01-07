@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **anything, glad to help**
 
-- 📫 How to reach me **kiri@digitaldesigners.ca**
+- 📫 How to reach me **kiri@duck.com**
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](https://kiri-vadivelu.ca)
 
-- 📝 Regularly write articles on [Social & Economical Issues](https://scarboroughtenants.ca)
+- 📝 Regularly write articles on [Social, Economical and Political Issues](https://scarborough.substack.com/)
 
 - 🍵 Addicted to tea since 1999 [History of Tea](https://en.wikipedia.org/wiki/History_of_tea)
 
