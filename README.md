@@ -21,11 +21,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🌮 [Eradicate Zionists to Save Humanity](https://scarborough.hashnode.dev/eradicate-zionists-to-save-humanity)
+ - 🔥 [Eradicate Zionists to Save Humanity](https://scarborough.hashnode.dev/eradicate-zionists-to-save-humanity)
  - 🌮 [The Real Enemy of Free Speech](https://scarborough.hashnode.dev/the-real-enemy-of-free-speech)
- - 🚀 [The Corporate Welfare Bums](https://scarborough.hashnode.dev/the-corporate-welfare-bums)
- - 🚀 [United Snakes Keep Americans Broke](https://scarborough.hashnode.dev/united-snakes-keep-americans-broke)
- - 🔥 [Zionist Devil Consume Palestine Lands](https://scarborough.hashnode.dev/zionist-devil-consume-palestine-lands)<!-- BLOGPOSTS:END -->
+ - 🔥 [The Corporate Welfare Bums](https://scarborough.hashnode.dev/the-corporate-welfare-bums)
+ - 💫 [United Snakes Keep Americans Broke](https://scarborough.hashnode.dev/united-snakes-keep-americans-broke)
+ - 🌮 [Zionist Devil Consume Palestine Lands](https://scarborough.hashnode.dev/zionist-devil-consume-palestine-lands)<!-- BLOGPOSTS:END -->
 
 
 <h3 align="left">Languages and Tools:</h3>
