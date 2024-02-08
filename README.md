@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything, glad to help**
 
-- 📫 How to reach me **kirix@duck.com**
+- 📫 How to reach me **kiri@kiri-vadivelu.ca**
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](https://kiri-vadivelu.ca)
 
