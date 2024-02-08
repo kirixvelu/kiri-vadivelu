@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [kiri-vadivelu.ca](https://kiri-vadivelu.ca)
 
-- 📝 Often Substack articles on [Social, Economical and Political Issues](https://scarborough.substack.com/)
+- 📝 Often Substack articles on [Social, Economical and Political Issues](https://hashnode.com/@kiri-vadivelu)
 
 - 🍵 Addicted to tea since 1999 [History of Tea](https://en.wikipedia.org/wiki/History_of_tea)
 
